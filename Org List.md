@@ -15,4 +15,6 @@ Create a robust and diverse list of organizations-- ideally at least 2-3 organiz
 | 8 | Social Justice Activism | Black Youth Project 100 DC Chapter | https://www.byp100.org/ | DC & National | Glennette Clark | Jillian Burford |
 | 9 | Social Justice Activism | Black Lives Matter DC Chapter | https://www.dcblm.org/ | DC | Glennette Clark | |
 | 10 | Civil Rights | American-Arab Anti-Discrimination Committee (ADC) | https://www.adc.org/ | National | | |
-| 11 | List of Social Justice Organizations | Washington Peace Center | http://washingtonpeacecenter.net/organization-directory/ | Local & National | | |
+| 11 | List of Social Justice Organizations | Washington Peace Center | http://washingtonpeacecenter.net/organization-directory/ | Local & National | Glennette Clark | |
+|12 | Community-based Services | Bread for the City | https://breadforthecity.org/ | DC | Glennette Clark | |
+|13 | Community-based Services | DC Mutual Aid Network | https://www.facebook.com/groups/492881801379594/ | DC | Glennette Clark | Jillian Burford |
